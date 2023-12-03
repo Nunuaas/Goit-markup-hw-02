@@ -7,8 +7,6 @@
     --subtle-text: #8E8F99;
     --accent-color: #E7E9FC;
     --light-color: #F4F4FD;
-    --modal-overlay-color: #2E2F42;
-    --hero-background: #2E2F42;
     --white-background: #FFFFFF;
     --modal-background: #FCFCFC;
 }
@@ -17,4 +15,43 @@ body{
     font-family: 'Roboto', sans-serif;
     color: var(--text-color);
     background-color: var(--white-background);
+}
+
+.logo{
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 1.17em;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: var(--dark-color);
+    text-decoration: none;
+
+}
+
+.logo-span{
+    color: var(--primary-brand-color);
+}
+
+.header-list{
+    color: var(--dark-color);
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    font-family: Roboto;
+}
+
+.header-list-nav{
+    color: var(--dark-color);
+    text-decoration: none;
+}
+
+.list{
+    list-style: none;
+}
+
+.link{
+    text-decoration: none;
 }
