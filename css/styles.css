@@ -24,13 +24,13 @@ body{
     line-height: 1.17em;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: var(--dark-color);
+    color: var(--primary-brand-color);
     text-decoration: none;
 
 }
 
 .logo-span{
-    color: var(--primary-brand-color);
+    color: var(--dark-color);
 }
 
 .header-list{
@@ -54,4 +54,11 @@ body{
 
 .link{
     text-decoration: none;
+}
+
+.header-list-nav:hover{
+    color: var(--pressed-state-color);
+}
+.header-list-nav:focus{
+    color: var(--pressed-state-color);
 }
