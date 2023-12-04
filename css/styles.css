@@ -135,3 +135,15 @@ body{
     line-height: 1.5;
     color: var(--text-color);
  }
+
+ .section-rubric{
+    font-family: Roboto;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    text-align: center;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: var(--dark-color);
+ }
