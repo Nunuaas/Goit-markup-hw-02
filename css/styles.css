@@ -17,6 +17,8 @@ body{
     background-color: var(--white-background);
 }
 
+/* Header, logo, address */
+
 .logo{
     font-family: Raleway, sans-serif;
     font-size: 18px;
@@ -86,6 +88,8 @@ body{
     background-color: var(--dark-color);
 }
 
+/* first section */
+
  .first-section-text{
     color: var(--white-background);
     font-family: Roboto;
@@ -116,6 +120,8 @@ body{
     background-color: var(--pressed-state-color);
  }
 
+/* second section */
+
  .rubric{
     font-family: Roboto;
     font-size: 20px;
@@ -136,6 +142,8 @@ body{
     color: var(--text-color);
  }
 
+ /* section three */
+
  .section-rubric{
     font-family: Roboto;
     font-size: 36px;
@@ -147,6 +155,8 @@ body{
     text-transform: capitalize;
     color: var(--dark-color);
  }
+
+ /* section four/ team section */
 
  .section-four{
     background-color: var(--light-color);
@@ -183,6 +193,8 @@ body{
     letter-spacing: 0.02em;
     color: var(--text-color);
  }
+
+ /* footer */
 
  .footer{
     background-color: var(--dark-color);
