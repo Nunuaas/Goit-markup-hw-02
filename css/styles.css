@@ -81,3 +81,37 @@ body{
 .address-list:focus{
     color: var(--pressed-state-color);
 }
+
+.first-section{
+    background-color: var(--dark-color);
+}
+
+ .first-section-text{
+    color: var(--white-background);
+    font-family: Roboto;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1,07;
+    text-align: center;
+    letter-spacing: 0,02em;
+ }
+
+ .first-section-button{
+    background-color: var(--primary-brand-color);
+    color: var(--white-background);
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    letter-spacing: 0,04em;
+    cursor: pointer;
+ }
+
+ .first-section-button:hover{
+    background-color: var(--pressed-state-color);
+ }
+
+ .first-section-button:focus{
+    background-color: var(--pressed-state-color);
+ }
