@@ -40,12 +40,11 @@ body{
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    font-family: Roboto;
-}
+    list-style: none;}
+
 
 .header-list-nav{
     color: var(--dark-color);
-    text-decoration: none;
 }
 
 .list{
