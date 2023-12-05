@@ -123,16 +123,6 @@ body{
 
 /* second section */
 
- .rubric{
-    font-family: Roboto;
-    font-size: 20px;
-    font-style: normal;
-    font-weight: 500;
-    letter-spacing: 0.02em;
-    line-height: 1.2;
-    color: var(--dark-color);
- }
-
  .text{
     font-family: Roboto;
     font-size: 16px;
